@@ -8,7 +8,7 @@ IMAGE FILTERING
 
 4) Screenshots
 
-![Image of your image](imgfilters.png)
+![Image of your image](imgf.png)
 
 4) Installation
 
